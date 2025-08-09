@@ -15,5 +15,5 @@ A simple Node.js application that demonstrates a complete CI/CD pipeline using G
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/bhushanmahajan0070/nodejs-demo-app.git
+   git clone https://github.com/bindushree047/nodejs-demo-app-main.git
    cd nodejs-demo-app
